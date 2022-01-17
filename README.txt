@@ -1,7 +1,7 @@
 # COVID-19-DETECTION
 The following are the steps to execute the whole program :-
 1.Execute the CREATE file.
-2.Execute the PLSQL file.
+2.Execute the FUNCTIONS file.
 3.Execute the INSERTION file.
 6.Execute the VIEWS file.
 7.To view tables use the select * from 'table_name' statement.

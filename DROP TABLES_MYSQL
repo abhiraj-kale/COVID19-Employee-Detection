@@ -1,0 +1,8 @@
+drop view G_ZONE;
+drop view Y_ZONE;
+drop view R_ZONE;
+DROP PROCEDURE IF EXISTS SET_ZONES;
+drop table SYMPTOMS;
+drop table SUSPECTS;
+drop table ZONE_SELECT;
+drop table BASIC_INFO;
